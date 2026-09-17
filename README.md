@@ -436,8 +436,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anurag-yadav-0a51022a1/)
+- Email: ay073501@gmail.com
 - Portfolio: yourportfolio.com
 
 ---
