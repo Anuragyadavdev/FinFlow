@@ -1,0 +1,41 @@
+# Environment
+.env
+*.env
+!.env.example
+
+# Backend
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.idea/
+backend/*.iml
+backend/logs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build artifacts
+*.class
+*.log
+*.jar
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+backend/src/main/resources/application.properties
+.env
+.env.*
+backend/target/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
